@@ -10,3 +10,9 @@ are most likely to buy, data science models and predictions could really
 impact marketing desicision and even sales. Running experiments on what is 
 most liekly to sell a product (such as where to run an add or what audience
 to target) is a prime example.
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging is a safer option generally as it maintains a history while
+rebasing rewrites the history and moves the branch onto the tip of the main.
+Q4:What are you looking forward to this semester?
+Answer: I am really excited to take CMSC451 because I really like algorithmns
+in CMSC351.
